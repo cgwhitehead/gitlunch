@@ -12,6 +12,7 @@ A hello world for learning git
 # What to put in my GIT repo
 * README
 ** Project Summary
+** Instructions on how to contribute
 ** Install/Getting Started Instructions
 ** Examples for use
 ** Contact information
